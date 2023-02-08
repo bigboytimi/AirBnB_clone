@@ -9,7 +9,6 @@ This stage implements a console interface, to create our data model, manage our 
 Console commands also allow the user to create, update, and destroy objects, as well as manage file storage. 
 Using a system of JSON serialization/deserialization, we also store and persist objects between sessions.
 
-===============================
 * Command Line Interpretation
 ===============================
 
